@@ -1,0 +1,9 @@
+lol
+ls
+help
+exit
+#0
+ls
+make
+exit
+exit
